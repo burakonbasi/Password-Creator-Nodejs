@@ -1,0 +1,16 @@
+{
+  "name": "password-creator-nodejs",
+  "version": "1.0.0",
+  "description": "İşte Node.js ve Express.js kullanarak rastgele şifreleri kaydedebileceğiniz bir API projesi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.2.0"
+  }
+}
